@@ -10,7 +10,7 @@
 ### 0.Preprocessing-The_North_Face_Ecommerce.ipynb
 Understanding and cleaning dataset. Preprocessing text for the creation of a TF-IDF Matrix and the visualization in a Word Cloud.
 
-- INPUT FILES : sample-data-ecommerce.csv
+- INPUT FILE : sample-data-ecommerce.csv
 
 - OUTPUT FILES :
   - TF-IDF_Matrix.csv
@@ -24,7 +24,7 @@ Understanding and cleaning dataset. Preprocessing text for the creation of a TF-
     - sample-data-ecommerce.csv
     - Cleaned_descriptions.csv
 
-- OUTPUT FILES :
+- OUTPUT FILE :
     - Desc_clusters.csv
 
 ### 2.Part2-Recommender_system-The_North_Face_Ecommerce.ipynb
