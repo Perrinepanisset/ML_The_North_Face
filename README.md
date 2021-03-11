@@ -17,7 +17,7 @@ Understanding and cleaning dataset. Preprocessing text for the creation of a TF-
   - northface_wordcloud.png
   
 ### 1.Part1-Group_Products-The_North_Face_Ecommerce.ipynb
-Understanding and cleaning dataset. Preprocessing text for the creation of a TF-IDF Matrix and the visualization in a Word Cloud.
+Grouping products with similar descriptions.
 
 - INPUT FILES : 
     - TF-IDF_Matrix.csv
